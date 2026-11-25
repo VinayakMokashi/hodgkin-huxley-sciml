@@ -63,7 +63,7 @@ input; do not update the manifest without re-running the pipeline.
 
 ```
 git clone <this repository>
-cd HH-SciML-Project
+cd hodgkin-huxley-sciml
 julia --project=. -e "using Pkg; Pkg.instantiate()"
 ```
 
