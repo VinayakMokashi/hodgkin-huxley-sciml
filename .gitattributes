@@ -1,0 +1,4 @@
+# The paper's LaTeX sources document the research rather than implement it. Excluding them from
+# GitHub's language statistics lets the repository's language reflect its code (Julia).
+paper/** linguist-documentation
+*.tex linguist-documentation
